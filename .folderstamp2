@@ -1,0 +1,32 @@
+This folder: /media/daniella/B/git/non-priority DAOs/Pleasr
+
+  File: ./&meta
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 3097209     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 02:11:28.404621300 -0300
+Modify: 2023-08-24 00:07:53.038487500 -0300
+Change: 2023-08-24 00:07:53.038487500 -0300
+ Birth: 2023-06-28 17:39:59.184687700 -0300
+IPFS hash: 
+------------------------------
+  File: ./ULE-2.txt
+  Size: 31        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4191714     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 22:48:37.667603800 -0300
+Modify: 2023-08-23 20:36:28.739692800 -0300
+Change: 2023-08-23 20:36:28.751696800 -0300
+ Birth: 2023-08-23 20:36:28.735691500 -0300
+IPFS hash: QmVV1gfV9vjyTC2mLmCayeSYWZh3qsdDao6U5cWTrxWpK7
+------------------------------
+  File: ./ULE.txt
+  Size: 23        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 3094976     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-23 20:36:00.706547000 -0300
+Modify: 2023-06-22 12:36:24.162257300 -0300
+Change: 2023-06-22 12:36:24.226328400 -0300
+ Birth: 2023-06-22 12:36:24.161463300 -0300
+IPFS hash: QmdwMg66SiB13EZJ538ri5CD4BWy8LVUUHc71CLEnrXZkD
+------------------------------

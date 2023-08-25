@@ -1,0 +1,82 @@
+This folder: /media/daniella/B/git/non-priority DAOs/Pleasr
+
+  File: ./&meta/.gitignore
+  Size: 9         	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 3097212     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 00:07:45.903864400 -0300
+Modify: 2023-01-02 16:13:54.925489500 -0300
+Change: 2023-06-28 17:39:59.198087500 -0300
+ Birth: 2023-06-28 17:39:59.194276500 -0300
+IPFS hash: QmTriWtoPz3M1aTXh1NSUMpYcXfBzxWh3iPnpkw9fTgKBQ
+------------------------------
+  File: ./&meta/Presentation.pptx
+  Size: 34737     	Blocks: 72         IO Block: 4096   regular file
+Device: 8,20	Inode: 3094176     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 00:08:52.718248900 -0300
+Modify: 2023-08-24 00:07:52.978089600 -0300
+Change: 2023-08-24 00:07:53.058484200 -0300
+ Birth: 2023-08-24 00:07:52.885198600 -0300
+IPFS hash: Qma1EbajPGNqAE58qaJJyFoSasTfs7ttGz2dHsF33xp8Vh
+------------------------------
+  File: ./&meta/Private/noempty.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,20	Inode: 3097211     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-05-23 23:20:32.680568100 -0300
+Modify: 2023-01-02 19:15:30.779914600 -0300
+Change: 2023-06-28 17:39:59.190814200 -0300
+ Birth: 2023-06-28 17:39:59.186714600 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./.folderstamp
+  Size: 1504      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4192943     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 02:07:00.196025100 -0300
+Modify: 2023-08-25 02:07:00.468024800 -0300
+Change: 2023-08-25 02:07:00.468024800 -0300
+ Birth: 2023-08-25 02:07:00.196025100 -0300
+IPFS hash: QmfLgh5HNV8XHHdSTN7qbBw2tfS63BaAuJ3GWojandW7ZX
+------------------------------
+  File: ./.folderstamp1
+  Size: 889       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 3094977     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-06-28 17:39:57.551133100 -0300
+Modify: 2023-06-22 12:36:36.342928100 -0300
+Change: 2023-08-25 02:06:49.156037700 -0300
+ Birth: 2023-06-22 12:36:35.299713100 -0300
+IPFS hash: Qmbsniurf54Hce9RUt6umzW1SEKYrzvVMfstHFzk27JcvZ
+------------------------------
+  File: ./.folderstamp2
+  Size: 1406      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4192921     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 02:06:52.228034100 -0300
+Modify: 2023-08-25 02:06:52.644033600 -0300
+Change: 2023-08-25 02:06:55.844030000 -0300
+ Birth: 2023-08-25 02:06:52.228034100 -0300
+IPFS hash: Qmb48VrafPe37ZUKKCUihW2Ph3X4hpiuNVYg6A1LFHn3kP
+------------------------------
+  File: ./ULE-2.txt
+  Size: 31        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4191714     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 22:48:37.667603800 -0300
+Modify: 2023-08-23 20:36:28.739692800 -0300
+Change: 2023-08-23 20:36:28.751696800 -0300
+ Birth: 2023-08-23 20:36:28.735691500 -0300
+IPFS hash: QmVV1gfV9vjyTC2mLmCayeSYWZh3qsdDao6U5cWTrxWpK7
+------------------------------
+  File: ./ULE.txt
+  Size: 23        	Blocks: 0          IO Block: 4096   regular file
+Device: 8,20	Inode: 3094976     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-25 02:06:52.640033600 -0300
+Modify: 2023-06-22 12:36:24.162257300 -0300
+Change: 2023-06-22 12:36:24.226328400 -0300
+ Birth: 2023-06-22 12:36:24.161463300 -0300
+IPFS hash: QmdwMg66SiB13EZJ538ri5CD4BWy8LVUUHc71CLEnrXZkD
+------------------------------
